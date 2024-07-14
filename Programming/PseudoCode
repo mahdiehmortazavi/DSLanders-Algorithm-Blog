@@ -1,4 +1,4 @@
-# Pseudocode for BubbleSort Algorithm
+# Pseudocode for Bubble Sort Algorithm
 
 Algorithm BubbleSort(A)
 Input: An array A of n elements
