@@ -1,5 +1,4 @@
-```python
-# Python code for BubbleSort Alghorithm
+# Python code for Bubble Sort Alghorithm
 def bubble_sort(A):
     n = len(A)
     for i in range(n-1):
@@ -12,4 +11,3 @@ def bubble_sort(A):
 array = [64, 34, 25, 12, 22, 11, 90]
 sorted_array = bubble_sort(array)
 print("Sorted array:", sorted_array)
-```python
