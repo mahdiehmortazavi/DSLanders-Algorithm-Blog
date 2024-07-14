@@ -1,4 +1,4 @@
-# DSLanders-Algorithm-Blog
+# DSLanders Algorithm Blog
 
 Welcome to the DSLanders Algorithm Blog! This blog is dedicated to helping you master algorithms and solve LeetCode problems efficiently.
 
