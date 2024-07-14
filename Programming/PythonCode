@@ -12,3 +12,4 @@ def bubble_sort(A):
 array = [64, 34, 25, 12, 22, 11, 90]
 sorted_array = bubble_sort(array)
 print("Sorted array:", sorted_array)
+```python
