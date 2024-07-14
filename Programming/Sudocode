@@ -1,0 +1,13 @@
+# Sudocode for BubbleSort Algorithm
+Algorithm BubbleSort(A)
+Input: An array A of n elements
+Output: The sorted array A
+
+for i from 1 to n-1 do
+    for j from 0 to n-i-1 do
+        if A[j] > A[j+1] then
+            swap A[j] and A[j+1]
+        end if
+    end for
+end for
+end Algorithm
