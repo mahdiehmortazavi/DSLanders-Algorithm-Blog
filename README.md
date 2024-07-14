@@ -8,7 +8,7 @@ In this blog, you will find a variety of articles, tutorials, and resources that
 
 ## Featured Image
 
-![Featured Image](path/to/your/image.png)
+![Featured Image]((https://static.evand.net/images/organizations/logos/original/7186211dabd363ff40b6f30fb045587b.jpg))
 
 ## Table of Contents
 
