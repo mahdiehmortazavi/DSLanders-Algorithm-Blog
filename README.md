@@ -6,10 +6,6 @@ Welcome to the DSLanders Algorithm Blog! This blog is dedicated to helping you m
 
 In this blog, you will find a variety of articles, tutorials, and resources that cover different aspects of algorithms and competitive programming. Whether you are a beginner or an experienced professional, there is something for everyone.
 
-## Featured Image
-
-![Featured Image]((https://static.evand.net/images/organizations/logos/original/7186211dabd363ff40b6f30fb045587b.jpg))
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
